@@ -87,7 +87,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:background="@drawable/exitxt_background"
-                        android:backgroundTint="#F8F8F8"
+                        android:backgroundTint="#EDEDED"
                         android:hint="Index"
                         android:inputType="number"
                         android:maxLength="6"
